@@ -1,3 +1,6 @@
+# SQL NoteBook
+This Website is made using React.js to provide an online SQL Editor with many extra functionalities
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
